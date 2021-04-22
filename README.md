@@ -1,5 +1,5 @@
 # landing page
 landing page utilizando de html e css
 
-Confira no link abaixo:
+Link para o site:
 https://luanferreira93.github.io/pagina-captura/
